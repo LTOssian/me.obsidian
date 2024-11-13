@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f7722290ad46fba9",
+        "id": "5f89a4513f1c3f7b",
         "type": "tabs",
         "children": [
           {
-            "id": "983cfea274ad635f",
+            "id": "be594c25c51c7319",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "culture/social/La pire récolte de blé depuis 40 ans.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (La pire récolte de blé depuis 40 ans)"
             }
           }
         ]
@@ -35,7 +40,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +57,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "culture/The N+1 Problem/N+1 Problem in SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for N+1 Problem in SQL"
             }
           },
           {
@@ -97,9 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "culture/The N+1 Problem/N+1 Problem in SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from N+1 Problem in SQL"
             }
           },
           {
@@ -110,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -119,29 +138,76 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
-              }
+                "file": "culture/The N+1 Problem/N+1 Problem in SQL.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of N+1 Problem in SQL"
+            }
+          },
+          {
+            "id": "19793481cb0e20e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4cdd5a9fbf564c7",
+  "active": "19793481cb0e20e0",
   "lastOpenFiles": [
+    "culture/art/Marie Vassilieff.md",
+    "dev/projects/Octa-feed/Octa.md",
+    "culture/The N+1 Problem/N+1 Problem in SQL.md",
+    "dev/documentations/cloud/Risques de sécurité.md",
+    "dev/projects/Octa-feed",
+    "dev/documentations/cloud/QCM.md",
+    "dev/documentations/api/graphQL.md",
+    "dev/documentations/api/in detail.md",
+    "dev/documentations/api/REST.md",
+    "dev/documentations/aws/Containers.md",
+    "dev/documentations/aws/Serverless Computing.md",
+    "culture/social/La pire récolte de blé depuis 40 ans.md",
+    "culture/The N+1 Problem/single queries chart.png",
+    "dev/documentations/aws",
+    "dev/documentations/js/stack and heap.md",
+    "dev/documentations/js/garbage collection.md",
+    "dev/documentations/js/promises.md",
+    "dev/documentations/js",
+    "dev/documentations/cloud/aws.md",
+    "dev/documentations/cloud",
+    "dev/documentations/api",
+    "culture/art/Emily Carr.md",
+    "culture/art/Georges Braque.md",
+    "culture/art/Henri Matisse.md",
+    "culture/art/post-impressionnisme vs fauvisme.md",
+    "dev/documentations/csharp/pro book/Chapter 1.md",
+    "culture/art",
+    "dev/Untitled",
+    "culture/social/RÉUSSIR EN PARTANT DE RIEN ?.md",
+    "Untitled",
+    "culture/The N+1 Problem",
+    "dev/courses/Untitled",
+    "Pragmatic Clean Architecture/Clean Architecture Layers.md",
+    "dev/documentations/Authentication fundamentals.md",
+    "dev/courses/UI-Hard-Parts/State-and-view.md",
     "test.md"
   ]
 }
